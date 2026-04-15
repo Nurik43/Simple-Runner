@@ -1,11 +1,10 @@
-# 🏃‍♂️ Simple Runner  
-**Author:** Kazakbaev Nurislam (Казакбаев Нурислам)  
+
 **Project type:** Summer Practice Project, KIUT  
 **Engine:** Unity 2021.3.16f1  
 
 
 
-## 🇬🇧 Project Description
+##  Project Description
 
 **Simple Runner** is a sample **infinite runner game** developed during the **summer internship at KIUT**.  
 The main goal was to learn how to design and structure games using the **Unity engine** and understand the basics of **game architecture**.
@@ -14,7 +13,7 @@ This project became my **most challenging and rewarding experience**, involving 
 
 ---
 
-### ⚙️ Technologies Used
+###  Technologies Used
 
 - **Unity** — version `2021.3.16f1`  
 - **Zenject** — version `9.2.0` (Dependency Injection)  
@@ -23,14 +22,14 @@ This project became my **most challenging and rewarding experience**, involving 
 
 ---
 
-### 🧩 Architecture
+###  Architecture
 
 - Gameplay logic is built using **ECS (Entity Component System)** for better modularity and performance.  
 - Level state and transitions are handled through a **State Machine**.
 
 ---
 
-### ⚠️ Challenges
+###  Challenges
 
 - Project structure  
 - Data handling  
@@ -41,7 +40,7 @@ This project became my **most challenging and rewarding experience**, involving 
 
 ---
 
-### 🚀 How to Run
+### How to Run
 
 1. Install **Unity 2021.3.16f1** or higher  
 2. Clone or download the project repository  
